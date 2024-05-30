@@ -78,9 +78,9 @@ endpointIdPrefix = endpointIdPrefix.replace(/\+/g, "-");
 
 ## Guide Contents
 
-1. [Skill Overview](./README.md)
-2. [Initialization and Setup: Cognito and DynamoDB](./instructions/1-initialization.md)
-3. [Skill Deployment](./instructions/2-deployment.md)
-4. [Skill Enablement](./instructions/3-skill-enablement.md)
+1. [Skill Overview](../README.md)
+2. [Initialization and Setup: Cognito and DynamoDB](./1-initialization.md)
+3. [Skill Deployment](./2-deployment.md)
+4. [Skill Enablement](./3-skill-enablement.md)
 5. Delegated Account Linking _&lArr; (You are here)_
-6. [Smart Home Features](./instructions/5-smart-home-features.md)
+6. [Smart Home Features](./5-smart-home-features.md)

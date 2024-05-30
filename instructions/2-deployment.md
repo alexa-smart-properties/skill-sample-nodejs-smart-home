@@ -50,9 +50,9 @@ And take the given `Alexa Redirect URLs` and add them back to your Cognito Setup
 
 ## Guide Contents
 
-1. [Skill Overview](./README.md)
-2. [Initialization and Setup: Cognito and DynamoDB](./instructions/1-initialization.md)
+1. [Skill Overview](../README.md)
+2. [Initialization and Setup: Cognito and DynamoDB](./1-initialization.md)
 3. Skill Deployment _&lArr; (You are here)_
-4. [Skill Enablement](./instructions/3-skill-enablement.md)
-5. [Delegated Account Linking](./instructions/4-delegated-account-linking.md)
-6. [Smart Home Features](./instructions/5-smart-home-features.md)
+4. [Skill Enablement](./3-skill-enablement.md)
+5. [Delegated Account Linking](./4-delegated-account-linking.md)
+6. [Smart Home Features](./5-smart-home-features.md)

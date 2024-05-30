@@ -47,9 +47,9 @@ Pretty vanilla get/set for a table in Dynamo, using the [DynamoDB Javascript v3 
 
 ## Guide Contents
 
-1. [Skill Overview](./README.md)
-2. [Initialization and Setup: Cognito and DynamoDB](./instructions/1-initialization.md)
-3. [Skill Deployment](./instructions/2-deployment.md)
-4. [Skill Enablement](./instructions/3-skill-enablement.md)
-5. [Delegated Account Linking](./instructions/4-delegated-account-linking.md)
+1. [Skill Overview](../README.md)
+2. [Initialization and Setup: Cognito and DynamoDB](./1-initialization.md)
+3. [Skill Deployment](./2-deployment.md)
+4. [Skill Enablement](./3-skill-enablement.md)
+5. [Delegated Account Linking](./4-delegated-account-linking.md)
 6. Smart Home Features _&lArr; (You are here)_
