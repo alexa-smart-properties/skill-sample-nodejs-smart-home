@@ -1,0 +1,44 @@
+{
+  "manifest": {
+    "apis": {
+      "smartHome": {
+        "endpoint": {
+          "uri": "<ID of your AWS Lambda instance>"
+        },
+        "protocolVersion": "3"
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "containsAds": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "locales": {
+        "en-US": {}
+      },
+      "usesPersonalInfo": false
+    },
+    "publishingInformation": {
+      "category": "SMART_HOME",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "Smart Home Sample Skill for Alexa Smart Properties.",
+          "examplePhrases": [
+            "Alexa, turn on the lights",
+            "Alexa, turn the temperature to seventy degrees",
+            "Alexa, help"
+          ],
+          "keywords": [],
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png",
+          "name": "ASP Smart Home Sample",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "summary": "Smart Home Sample Skill for Alexa Smart Properties."
+        }
+      },
+      "testingInstructions": "This is a smart home demo skill for Alexa Smart Properties."
+    }
+  }
+}
